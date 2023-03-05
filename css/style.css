@@ -54,3 +54,21 @@ img {
     line-height: 25px;
     margin-bottom: 30px;
 }
+.second-section__img1 {
+    margin-bottom: 20px;
+}
+.tuttons__main-btm {
+    width: 640px;
+    height: 67px;
+    border-radius: 12px; 
+    background-color: white;
+    font-size: 18px;
+    font-weight: 400;
+    
+    
+}
+
+.logo-btn{
+    margin-right: 10px;
+    
+}
